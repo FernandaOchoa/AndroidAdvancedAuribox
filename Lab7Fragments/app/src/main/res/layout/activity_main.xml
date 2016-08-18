@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="1"
+    tools:context=".Activities.MainActivity">
+
+    <!-- XML de la actividad principal que contiene ambos fragments -->
+
+            <!-- Fragmento de la izquierda al cual ingreso datos -->
+        <fragment
+            android:id="@+id/izq"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".5"
+            class="monsh.com.lab7fragments.Fragmentos.Izquierda"
+            />
+
+        <!--Fragmento de la derecha el cual mostrara los datos -->
+        <fragment
+            android:id="@+id/der"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".5"
+            class="monsh.com.lab7fragments.Fragmentos.Derecha"
+            />
+</LinearLayout>

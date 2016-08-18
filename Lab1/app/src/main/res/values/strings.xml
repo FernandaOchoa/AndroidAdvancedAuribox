@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="hola">Saludar</string>
+    <string name="saludo">Ingresa tu nombre</string>
+    <string name="goodnight">Buenas Noches </string>
+    <string name="goodmorning">Buenos Dias </string>
+    <string name="goodafternoon">Buenas Tardes </string>
+    <string name="goodevening">Buen Día </string>
+</resources>

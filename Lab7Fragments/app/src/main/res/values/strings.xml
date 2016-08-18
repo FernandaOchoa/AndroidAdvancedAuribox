@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab7Fragments</string>
+    <string name="hola">Hola</string>
+    <string name="saludar">Saludar</string>
+</resources>
