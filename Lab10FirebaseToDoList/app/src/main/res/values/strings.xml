@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab10FirebaseToDoList</string>
+    <string name="task">Agregar un elemento nuevo</string>
+    <string name="title">Android Avanzado Auribox</string>
+</resources>

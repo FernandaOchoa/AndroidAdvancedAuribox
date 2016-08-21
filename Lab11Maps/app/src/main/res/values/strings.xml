@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Google Maps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="marker_detail_latlng">(%1$.2f, %2$.2f)</string>
+    <string name="mexico_descr">La Ciudad de México, anteriormente conocida como Distrito Federal, es una entidad federativa mexicana, considerada la capital del país</string>
+
+    <string-array name="map_types_list">
+        <item>None</item>
+        <item>Normal</item>
+        <item>Satellite</item>
+        <item>Hybrid</item>
+        <item>Terrain</item>
+    </string-array>
+    <string name="title_activity_polygon">Polígonos</string>
+    <string name="title_activity_circle">Círculos</string>
+    <string name="title_activity_gestures">Gestos</string>
+    <string name="title_activity_events">Eventos</string>
+    <string name="title_activity_controls">Controles</string>
+    <string name="title_activity_firt_map">Mapa básico</string>
+    <string name="title_activity_marcadores">Marcadores</string>
+    <string name="title_activity_marker_detail">Coordenadas de marcador</string>
+    <string name="title_activity_map_types">Tipos de mapa</string>
+    <string name="title_activity_camera">Cámara</string>
+    <string name="title_activity_polyline">Polilíneas</string>
+</resources>
